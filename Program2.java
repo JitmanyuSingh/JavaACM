@@ -1,12 +1,12 @@
 import java.io.*;
 import java.util.*;
-class Program2
+class JSProgram2
 {
 	public static void main(String args[]) throws IOException
 	{
-		int n=3;
-		double n1=3;
-		System.out.println(n);
-    System.out.println(n1);
+		int j=3;
+		double j1=3;
+		System.out.println(j);
+    System.out.println(j1);
 	}
 }
